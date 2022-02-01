@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Sabya
-- 👀 I’m interested in Algo-DS and ML
-- 🌱 I’m currently trying learning c++ for embedded-sys
-- 💞️ I’m looking to collaborate on projects on ML
+
+- 👋 Hi, I’m Sabyasachi ( Sabya you may call )
+- 👀 I’m interested in Algorithm Datastructures and learning new concepts and tech
+- 🌱 I’m currently trying learning system design, Backend and UX for becoming full stack web developer
+- 💞️ I’m a generalist and have a wide range of proficiency , I have worked on projects on the entire spectrum ranging from Embedded System and FPGA design to Web developement including machine learning
+- I Believe in learning the core concepts and principles instead of being an Specialist
 - 📫 How to reach me ...
 
 <!---
